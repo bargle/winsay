@@ -1,4 +1,4 @@
-Windows Say Command [v0.1]
+Windows Say Command [v0.2]
 ======
 
 Text-to-Speech "Say" Command for Windows
