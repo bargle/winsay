@@ -29,5 +29,7 @@ Usage: say -m [text] <other options>
   -i, --volume      Volume of TTS voice
 
   -l, --lsvoices    show list of installed TTS voices
+  
+  -o, --output      Output to wave file  
 
-  --help            Display this help screen.
+  --help            Display this help screen
