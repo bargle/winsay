@@ -90,7 +90,7 @@ namespace say
                 {
                     synth.SelectVoice( parseVoice( options.TTSVoice ) );
                 }
-                if ( options.TTSFile.Length > 0 )
+                if ( options.TTSVoice != null )
                 {
                     synth.SetOutputToWaveFile( options.TTSFile );
                 }
