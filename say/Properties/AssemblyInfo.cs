@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("say")]
 [assembly: AssemblyDescription("TTS Command Line Utility")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Michael-John Sakellaropoulos")]
+[assembly: AssemblyCompany("Michael-John Sakellaropoulos, Updated by David Koenig")]
 [assembly: AssemblyProduct("say")]
-[assembly: AssemblyCopyright("Copyright © Michael-John Sakellaropoulos, 2014")]
+[assembly: AssemblyCopyright("Copyright © Michael-John Sakellaropoulos, David Koenig, 2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 // You can specify all the values or you can default the Build and Revision Numbers 
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.0.0.0")]
-[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyVersion("0.2.0.0")]
+[assembly: AssemblyFileVersion("0.2.0.0")]

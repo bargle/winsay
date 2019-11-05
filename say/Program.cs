@@ -37,8 +37,8 @@ namespace say
         {
             var help = new HelpText
             {
-                Heading = new HeadingInfo("TTS Say Command Line Utility", "0.1"),
-                Copyright = new CopyrightInfo("Michael-John", 2014),
+                Heading = new HeadingInfo("TTS Say Command Line Utility", "0.2"),
+                Copyright = new CopyrightInfo("Michael-John, Updated by github/bargle", 2019),
                 AdditionalNewLineAfterOption = true,
                 AddDashesToOption = true
             };
